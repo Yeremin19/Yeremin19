@@ -1,5 +1,6 @@
 # 💫 About Me:
-💻 Me apasiona la tecnología y la programación.<br>🏀 Me gusta el deporte de básquet.<br>🎓 Ingeniero de software con inteligencia artificial.<br>🌀 SENATI
+💻 I am passionate about technology and programming.<br>🏀 
+I like the sport of basketball.<br>🎓 Ingeniero de software con inteligencia artificial.<br>🌀 SENATI
 
 
 ## 🌐 Socials:
